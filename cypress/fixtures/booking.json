@@ -1,0 +1,19 @@
+{
+  "normalBookingDoctor": {
+    "slug": "sihab-panakkathodan"
+  },
+  "BuyOneGetOneDiscountInfo": {
+    "slug": "signature-hydrafacial",
+    "doctor_id": 7760,
+    "discount_code": "304H7Q4FDF"
+
+  },
+  "instantBookingDoctors": [],
+  "walkInBookingDoctors": [],
+  "patient1": {
+    "phoneNumber": "+972592760040"
+  }
+
+
+
+}

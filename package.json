@@ -1,0 +1,35 @@
+{
+  "name": "meddy-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "./node_modules/.bin/cypress open",
+    "positive": "./node_modules/.bin/cypress-tags run -e TAGS='@positive'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meddyco/meddy-cypress.git"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meddyco/meddy-cypress/issues"
+  },
+  "homepage": "https://github.com/meddyco/meddy-cypress#readme",
+  "devDependencies": {
+    "@percy/cli": "^1.0.0-beta.74",
+    "@percy/cypress": "^3.1.1",
+    "cypress": "^9.7.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-plugin-stripe-elements": "^1.0.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "qatar": {
+    "normalDoctor": {"slug": "Zainab Awni", "slug_ar": "Zainab Awni", "id": 1269, "name": "Zainab Awni", "name_ar": "زينب عوني" },
+    "instantDoctor":{"slug": "abdurrazzak-gehani", "slug_ar": "abdurrazzak-gehani", "id": 1233, "name": "Abdurrazzak Gehani", "name_ar": "عبدالرزاق جيهاني" },
+    "walkInDoctor": {"slug": "abdulkafi-al-nefawi", "slug_ar": "abdulkafi-al-nefawi", "id": 1067, "name": "Abdulkafi Al Nefawi", "name_ar": "عبدالكافي النيفاوي" },
+    "videoNormalDoctor": {"slug": "mohammad-asha", "slug_ar": "mohammad-asha", "id": 796, "name": "Mohammad Asha", "name_ar": "محمد عشا" },
+    "videoInstantDoctor": {"slug": "ghinwa-zoubeir", "slug_ar": "ghinwa-zoubeir", "id": 7789, "name": "Ghinwa Zoubeir", "name_ar": "غنوة زبير" },
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "asma-bettaibi", "slug_ar": "asma-bettaibi", "id": 4965, "name": "Asma Bettaibi", "name_ar": "اسماء البطيبي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "discountNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "discountInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+  },
+  "uae": {
+    "normalDoctor": {"slug": "aamerah-shah", "slug_ar": "aamerah-shah", "id": 3612, "name": "Aamerah Shah", "name_ar": "عامره شاه" },
+    "instantDoctor":{"slug": "abdelhakim-a-el-gheriani", "slug_ar": "abdelhakim-a-el-gheriani", "id": 1959, "name": "Abdelhakim A. El-Gheriani", "name_ar": "عبد الحكيم الجرياني" },
+    "walkInDoctor": {"slug": "abdul-hafeez-siddiqui", "slug_ar": "abdul-hafeez-siddiqui", "id": 3615, "name": "Abdul Hafeez Siddiqui", "name_ar": "عبد الحفيظ صديقي" },
+    "videoNormalDoctor": {"slug": "anil-sureen", "slug_ar": "anil-sureen", "id": 2961, "name": "Anil Sureen", "name_ar": "أنيل سورين" },
+    "videoInstantDoctor": {"slug": "anum-meghani", "slug_ar": "anum-meghani", "id": 6514, "name": "Anum Meghani", "name_ar": "انوم ميغاني" },
+    "normalDoctorWithOldPatientsPriceSupport": {"slug": "abdul-karim-massadi", "slug_ar": "abdul-karim-massadi", "id": 7126, "name": "Abdul Karim Massadi", "name_ar": "عبدالكريم مسدي" },
+    "buyOneGetOneNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "buyOneGetOneInstantDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "discountNormalDoctor": {"slug": "", "slug_ar": "", "id": 0},
+    "discountInstantDoctor": {"slug": "", "slug_ar": "", "id": 0}
+
+  }
+
+}

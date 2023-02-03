@@ -1,0 +1,18 @@
+{
+  "qatar": {
+    "patientWithPreFilledInfo": {
+      "name": "Test Patient",
+      "phone": "+97435566",
+      "gender": "male",
+      "Code" : "1234"
+    },
+    "newPatient": {
+      "name": "New Test Patient",
+      "phone": "+9743133"
+    },
+    "patientWithInsurance": {
+      "name": "Test Patient with insurance",
+      "phone": ""
+    }
+  }
+}

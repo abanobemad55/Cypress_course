@@ -1,0 +1,25 @@
+{
+  "admin": {
+    "email": "test_admin@meddy.com",
+    "password": "7L)*(;NME(lFbLdE=?VK"
+  },
+  "normalUserWithEmail": {
+    "email": "abanob@test.com",
+    "password": "123456",
+    "phoneNumber": "+97435566867"
+  },
+  "normalUserWithPhone": {
+    "phoneNumber": "+97455566666"
+  },
+  "ClinicManager": {
+    "email": "test_clinic_manager@meddy.com",
+    "password": "NS&dhaTHXU8m&[1qpAyU"
+  },
+  "SignupUser": {
+    "email": "signup1@meddy.com",
+    "phoneNumber": "+97431231234",
+
+    "password": "testpassword",
+    "fullName": "test signup user"
+  }
+}

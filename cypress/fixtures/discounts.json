@@ -1,0 +1,27 @@
+{
+  "qatar": {
+    "percentageNormalDiscount": {
+      "id": 598,
+      "name":"Full Body Laser Hair Removal",
+      "name_ar": "إزالة شعر كامل الجسم بالليزر",
+      "slug": "full-body-laser-hair-removal",
+      "code": "Z14E7W0924"
+    },
+    "percentageInstantDiscount": {},
+    "B1G1NormalDiscount": {
+      "id": 597,
+      "name": "Signature HydraFacial USA",
+      "name_ar": "سيغنتشر هيدرافيشل الأمريكية",
+      "slug": "signature-hydrafacial",
+      "code": "304H7Q4FDF"
+    },
+    "B1G1InstantDiscount": {
+      "id": 590,
+      "name": "B1G1 instant test",
+      "name_ar": "اختبار الحجز الفوري",
+      "slug": "instant-test",
+      "code": "NH774GFSAH"
+    }
+  },
+  "uae": {}
+}
